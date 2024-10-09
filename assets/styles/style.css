@@ -97,4 +97,5 @@ button {
     width: fit-content;
     align-self: center;
     border-radius: var(--border-radius-small);
+    cursor: pointer;
 }
